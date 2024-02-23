@@ -12,7 +12,7 @@ class ImageTextOverlay:
         return {
             "required": {
                 "image": ("IMAGE",),
-                "text": ("STRING", {"multiline": True, "default": "Hello"}),
+                "text": ("STRING", {"default": "Hello"}),
                 "textbox_width": ("INT", {"default": 200, "min": 1}),  
                 "textbox_height": ("INT", {"default": 200, "min": 1}),  
                 "max_font_size": ("INT", {"default": 30, "min": 1, "max": 256, "step": 1}),  
