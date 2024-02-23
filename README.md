@@ -33,3 +33,6 @@ Contributions to improve the ImageTextOverlay Node or add new features are welco
 
 ## License
 MIT License - Feel free to use and modify the ImageTextOverlay Node for your personal or commercial projects.
+
+## Credit
+Credits to https://github.com/Smuzzies/comfyui_chatbox_overlay 
