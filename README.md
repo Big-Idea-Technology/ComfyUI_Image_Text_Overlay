@@ -1,6 +1,6 @@
 ## Project Status Update
 Please note that the ImageTextOverlay project is no longer supported and has been moved to a new repository. For ongoing developments, contributions, and issues, please refer to the new repository at:
-https://github.com/Big-Idea-Technology/Book-Tools
+https://github.com/Big-Idea-Technology/ComfyUI-Book-Tools
 
 ## ImageTextOverlay Node for ComfyUI
 ImageTextOverlay is a customizable Node for ComfyUI that allows users to easily add text overlays to images within their ComfyUI projects. This Node leverages Python Imaging Library (PIL) and PyTorch to dynamically render text on images, supporting a wide range of customization options including font size, alignment, color, and padding.
